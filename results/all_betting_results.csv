@@ -1,4 +1,4 @@
-matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,in_first_event,potential_winnings,total_return,profit,event_name,date_added
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,profit,event_name,date_added
 df1,Marvin Vettori,-166,1,0.8815124119220203,0.5996387718242023,0.281873640097818,0,0,0,-1,UFC 313: Pereira vs. Ankalaev,2025-03-11
 df4,Alexander Hernandez,-192,3,1.2070391105996519,0.6309403437815976,0.5760987668180543,0,0,0,-3,UFC 313: Pereira vs. Ankalaev,2025-03-11
 df5,Cody Gibson,350,1,0.3225997858103048,0.2132564841498559,0.1093433016604489,0,0,0,-1,UFC 313: Pereira vs. Ankalaev,2025-03-11
