@@ -1,0 +1,18 @@
+{
+    "basic_statistics": {
+        "count": 6,
+        "mean": -1.1481481481481481,
+        "median": -1.0,
+        "std": 1.3656575618110447,
+        "min": -3.0,
+        "max": 1.1111111111111112,
+        "range": 4.111111111111111,
+        "iqr": 0.75
+    },
+    "t_test": {
+        "t_statistic": -3.8529914101523572,
+        "p_value_one_sided": 0.9940176260951611,
+        "conclusion": "Fail to reject H0"
+    },
+    "analysis_date": "2025-03-11 00:13:55"
+}
