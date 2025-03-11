@@ -1,6 +1,6 @@
 # UFC Betting Model Return to Player Analysis
 
-*Analysis Date: 2025-03-11 00:38:26*
+*Analysis Date: 2025-03-11 00:39:22*
 
 ## Overview
 This analysis evaluates the Return to Player (RTP) performance of our UFC betting model. The RTP metric represents the percentage of wagered money returned to bettors, where values greater than 96% indicate profitable bets after accounting for typical sportsbook margins (e.g., a value of 120% means a 20% profit on investment).
