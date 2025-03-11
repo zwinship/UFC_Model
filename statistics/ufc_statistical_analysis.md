@@ -1,6 +1,6 @@
 # UFC Betting Model Return to Player Analysis
 
-*Analysis Date: 2025-03-11 00:39:22*
+*Analysis Date: 2025-03-11 00:41:00*
 
 ## Overview
 This analysis evaluates the Return to Player (RTP) performance of our UFC betting model. The RTP metric represents the percentage of wagered money returned to bettors, where values greater than 96% indicate profitable bets after accounting for typical sportsbook margins (e.g., a value of 120% means a 20% profit on investment).
@@ -33,7 +33,7 @@ This analysis evaluates the Return to Player (RTP) performance of our UFC bettin
 **The results are inconclusive.** While the model may show some profitability, we don't have enough statistical evidence to conclude that it performs better than the 96% threshold needed to overcome typical bookmaker margins. The observed RTP might be due to random chance rather than genuine predictive power.
 
 ## RTP Distribution
-The mean RTP of -1.1482x indicates that on average, each $1 bet returns $-1.15. For comparison, a random selection strategy would be expected to return approximately $0.96 per $1 bet in the long run (due to bookmaker margins).
+The mean RTP of -1.1482x indicates that on average, each 1 unit bet returns -1.15 units. For comparison, a random selection strategy would be expected to return approximately $0.96 per $1 bet in the long run (due to bookmaker margins).
 
 ## Dataset Information
 This analysis was performed on the UFC Model betting results dataset, which includes 6 bets. The model's predictions were compared against actual fight outcomes to evaluate RTP performance.
