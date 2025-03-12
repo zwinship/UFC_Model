@@ -10,10 +10,10 @@
         "iqr": 0.75
     },
     "t_test": {
-        "null_hypothesis_value": 0.96,
-        "t_statistic": -7.2021425383601745,
-        "p_value_one_sided": 0.9995980266195338,
+        "null_hypothesis_value": 0,
+        "t_statistic": -4.391550328268399,
+        "p_value_one_sided": 0.9964612010372509,
         "conclusion": "Fail to reject H0"
     },
-    "analysis_date": "2025-03-12 02:53:18"
+    "analysis_date": "2025-03-12 02:59:22"
 }
