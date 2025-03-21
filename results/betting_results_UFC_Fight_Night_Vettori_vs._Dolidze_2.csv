@@ -1,0 +1,7 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Marvin Vettori,-162,1,0.875,0.593,0.282,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Vettori vs. Dolidze 2,2025-03-21
+df3,Alexander Hernandez,-205,3,1.235,0.645,0.59,1,1.463,4.463,1.463,1.488,UFC Fight Night: Vettori vs. Dolidze 2,2025-03-21
+df4,Cody Gibson,350,1,0.323,0.213,0.109,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Vettori vs. Dolidze 2,2025-03-21
+df9,Josias Musasa,-700,1,0.966,0.84,0.126,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Vettori vs. Dolidze 2,2025-03-21
+df12,Priscila Cachoeira,154,1,0.537,0.378,0.159,1,1.54,2.54,1.54,2.54,UFC Fight Night: Vettori vs. Dolidze 2,2025-03-21
+df13,Yuneisy Duben,285,2,0.595,0.249,0.345,0,0.0,0.0,-2.0,0.0,UFC Fight Night: Vettori vs. Dolidze 2,2025-03-21
