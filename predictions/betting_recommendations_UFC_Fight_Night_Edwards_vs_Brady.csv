@@ -1,7 +1,0 @@
-matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
-df2,Carlos Ulberg,-298,2,1.035,0.718,0.317
-df3,Kevin Holland,+110,3,49.921,0.457,49.464
-df7,Chris Padilla,-108,1,0.619,0.496,0.123
-df8,Felipe dos Santos,+235,3,1.556,0.286,1.27
-df11,Puja Tomar,+142,2,0.784,0.396,0.388
-df12,Nathan Fletcher,-115,3,1.012,0.511,0.501
