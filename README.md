@@ -1,6 +1,6 @@
 # UFC Betting Model
 
-## [Visit the UFC Betting Model Dashboard](https://ufc-betting-model-ff625a707d8d.herokuapp.com/results)
+## [Visit the UFC Betting Model Dashboard](https://ufcmodel.pythonanywhere.com/)
 
 A comprehensive machine learning model for predicting UFC fight outcomes based on fighting styles and key statistics.
 
