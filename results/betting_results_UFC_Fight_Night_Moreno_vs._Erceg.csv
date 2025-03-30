@@ -1,0 +1,5 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Brandon Moreno,-245,1,0.914,0.681,0.233,1,0.408,1.408,0.408,1.408,UFC Fight Night: Moreno vs. Erceg,2025-03-30
+df4,Raul Rosas Jr.,-485,1,1.085,0.796,0.29,1,0.206,1.206,0.206,1.206,UFC Fight Night: Moreno vs. Erceg,2025-03-30
+df9,Melquizael Costa,142,1,0.574,0.396,0.177,1,1.42,2.42,1.42,2.42,UFC Fight Night: Moreno vs. Erceg,2025-03-30
+df12,Gabriel Miranda,295,2,0.645,0.243,0.402,0,0.0,0.0,-2.0,0.0,UFC Fight Night: Moreno vs. Erceg,2025-03-30
