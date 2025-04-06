@@ -1,7 +1,6 @@
 matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
 df4,Gerald Meerschaert,+164,1,0.493,0.363,0.13
 df5,Ode Osbourne,+215,3,1.308,0.304,1.003
-df7,Daniel Santos,-148,2,1.033,0.572,0.461
 df9,Daniel Frunza,-155,1,0.76,0.583,0.177
 df10,Loma Lookboonmee,-700,1,1.134,0.855,0.279
 df11,Pedro Falcao,+180,1,0.58,0.343,0.237
