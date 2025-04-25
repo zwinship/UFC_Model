@@ -1,0 +1,3 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df11,Cameron Saaiman,-102,1,0.657,0.483,0.174
+df12,Polyana Viana,+600,3,0.916,0.137,0.779
