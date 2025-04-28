@@ -1,19 +1,19 @@
 {
     "basic_statistics": {
-        "count": 26,
-        "mean": 0.9701923076923078,
-        "median": 1.127,
-        "std": 1.0219929557186105,
+        "count": 28,
+        "mean": 0.9008928571428572,
+        "median": 0.5555,
+        "std": 1.0157977831455363,
         "min": 0.0,
         "max": 3.15,
         "range": 3.15,
-        "iqr": 1.60575
+        "iqr": 1.52725
     },
     "t_test": {
         "null_hypothesis_value": 0.96,
-        "t_statistic": 0.050852381634153676,
-        "p_value_one_sided": 0.4799236411420936,
+        "t_statistic": -0.30790144121659735,
+        "p_value_one_sided": 0.619739945835929,
         "conclusion": "Fail to reject H0"
     },
-    "analysis_date": "2025-04-13 01:30:18"
+    "analysis_date": "2025-04-28 18:23:01"
 }
