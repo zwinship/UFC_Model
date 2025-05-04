@@ -1,0 +1,7 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Deiveson Figueiredo,400,2,0.57,0.192,0.378,0,0.0,0.0,-2.0,0.0,UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-04
+df4,Montel Jackson,-198,1,0.764,0.637,0.127,1,0.505,1.505,0.505,1.505,UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-04
+df5,Cameron Smotherman,120,1,0.718,0.437,0.281,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-04
+df8,Azamat Bekoev,-410,1,0.93,0.772,0.158,1,0.244,1.244,0.244,1.244,UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-04
+df9,Gillian Robertson,-310,1,0.936,0.726,0.21,1,0.323,1.323,0.323,1.323,UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-04
+df12,Ivana Petrovic,-230,1,0.965,0.669,0.296,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-04
