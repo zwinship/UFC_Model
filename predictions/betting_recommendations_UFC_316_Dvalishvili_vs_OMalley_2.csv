@@ -1,0 +1,4 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Merab Dvalishvili,-285,1,0.897,0.71,0.187
+df2,Kayla Harrison,-750,3,1.761,0.847,0.915
+df7,Azamat Murzakanov,-625,1,0.955,0.827,0.128
