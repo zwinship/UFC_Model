@@ -1,0 +1,7 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Kamaru Usman,+205,1,0.444,0.315,0.129
+df2,Miranda Maverick,+195,1,0.577,0.325,0.252
+df5,Mansur Abdul-Malik,-800,2,1.218,0.852,0.365
+df6,Alonzo Menifield,+500,1,0.441,0.16,0.281
+df7,Rodolfo Bellato,-395,1,0.898,0.766,0.132
+df9,Kris Moutinho,+1000,2,0.521,0.088,0.433
