@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df2,Ignacio Bahamondes,-125,1,0.695,0.532,0.162
+df3,Curtis Blaydes,-270,3,1.805,0.7,1.105
+df10,Klaudia Sygula,+220,2,0.626,0.3,0.326
+df11,Tagir Ulanbekov,-395,2,1.086,0.766,0.321
+df12,Mohammed Usman,+142,2,0.756,0.396,0.36
