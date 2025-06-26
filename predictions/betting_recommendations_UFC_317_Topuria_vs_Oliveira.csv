@@ -1,0 +1,7 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Ilia Topuria,-500,1,1.027,0.786,0.241
+df2,Kai Kara-France,+200,1,0.454,0.315,0.139
+df4,Beneil Dariush,-104,1,0.683,0.481,0.202
+df7,Jose Delgado,-172,1,0.798,0.597,0.201
+df8,Tracy Cortez,-265,2,1.02,0.685,0.335
+df10,Jacobe Smith,-3000,3,1.575,0.914,0.661
