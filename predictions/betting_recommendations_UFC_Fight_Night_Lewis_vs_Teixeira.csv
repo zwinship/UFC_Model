@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df2,Gabriel Bonfim,-420,1,0.892,0.773,0.119
+df5,Austen Lane,+450,1,0.345,0.173,0.171
+df7,Max Griffin,+246,1,0.47,0.278,0.192
+df9,Eduarda Moura,-620,3,1.363,0.822,0.541
+df10,Kennedy Nzechukwu,-210,1,0.764,0.65,0.114
