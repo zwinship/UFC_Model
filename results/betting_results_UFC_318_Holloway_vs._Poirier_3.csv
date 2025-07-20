@@ -1,0 +1,7 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Dustin Poirier,114,1,0.612,0.449,0.163,0,0.0,0.0,-1.0,0.0,UFC 318: Holloway vs. Poirier 3,2025-07-20
+df5,Daniel Zellhuber,-600,1,0.995,0.818,0.176,0,0.0,0.0,-1.0,0.0,UFC 318: Holloway vs. Poirier 3,2025-07-20
+df7,Brendan Allen,-205,3,1.203,0.645,0.558,1,1.463,4.463,1.463,1.488,UFC 318: Holloway vs. Poirier 3,2025-07-20
+df8,Nikolay Veretennikov,122,1,0.54,0.432,0.108,1,1.22,2.22,1.22,2.22,UFC 318: Holloway vs. Poirier 3,2025-07-20
+df10,Adam Fugitt,445,1,0.293,0.175,0.118,0,0.0,0.0,-1.0,0.0,UFC 318: Holloway vs. Poirier 3,2025-07-20
+df14,Nicolle Caliari,270,2,0.654,0.26,0.394,0,0.0,0.0,-2.0,0.0,UFC 318: Holloway vs. Poirier 3,2025-07-20
