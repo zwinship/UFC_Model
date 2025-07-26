@@ -1,0 +1,8 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Reinier de Ridder,134,3,0.947,0.41,0.537,1,4.02,7.02,4.02,2.34,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
+df2,Petr Yan,-375,1,0.967,0.757,0.211,1,0.267,1.267,0.267,1.267,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
+df5,Bogdan Guskov,168,2,0.714,0.358,0.356,1,3.36,5.36,3.36,2.68,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
+df6,Said Nurmagomedov,122,1,0.546,0.432,0.114,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
+df7,Muslim Salikhov,369,3,1.586,0.204,1.382,1,11.07,14.07,11.07,4.69,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
+df10,Ibo Aslan,-280,1,0.868,0.709,0.159,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
+df11,Steven Nguyen,-405,3,1.3,0.768,0.532,1,0.741,3.741,0.741,1.247,UFC Fight Night: Whittaker vs. De Ridder,2025-07-26
