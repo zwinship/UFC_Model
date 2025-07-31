@@ -1,0 +1,8 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df4,Karol Rosa,-185,1,0.741,0.622,0.119
+df5,Neil Magny,+164,1,0.531,0.363,0.168
+df7,Nathan Fletcher,+330,2,0.546,0.223,0.323
+df8,Tresean Gore,+170,1,0.508,0.355,0.153
+df9,Nick Klein,+130,1,0.642,0.417,0.225
+df11,Rafael Estevam,-550,1,1.025,0.812,0.213
+df12,Ketlen Souza,+185,1,0.547,0.336,0.211
