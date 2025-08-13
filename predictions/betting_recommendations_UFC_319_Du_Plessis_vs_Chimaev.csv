@@ -1,0 +1,5 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Khamzat Chimaev,-250,1,0.93,0.685,0.245
+df4,Michael Page,-198,1,0.808,0.637,0.171
+df10,Drakkar Klose,+120,1,0.576,0.437,0.14
+df12,Dione Barbosa,+170,1,0.526,0.355,0.171
