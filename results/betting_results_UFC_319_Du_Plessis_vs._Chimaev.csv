@@ -1,0 +1,5 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Khamzat Chimaev,-250,1,0.93,0.685,0.245,1,0.4,1.4,0.4,1.4,UFC 319: Du Plessis vs. Chimaev,2025-08-17
+df4,Michael Page,-198,1,0.808,0.637,0.171,1,0.505,1.505,0.505,1.505,UFC 319: Du Plessis vs. Chimaev,2025-08-17
+df10,Drakkar Klose,120,1,0.576,0.437,0.14,1,1.2,2.2,1.2,2.2,UFC 319: Du Plessis vs. Chimaev,2025-08-17
+df12,Dione Barbosa,170,1,0.526,0.355,0.171,0,0.0,0.0,-1.0,0.0,UFC 319: Du Plessis vs. Chimaev,2025-08-17
