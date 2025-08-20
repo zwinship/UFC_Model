@@ -1,0 +1,4 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df2,Brian Ortega,+230,2,0.748,0.29,0.457
+df5,Kiefer Crosbie,+340,1,0.334,0.218,0.116
+df9,Michel Pereira,-265,1,0.938,0.696,0.242
