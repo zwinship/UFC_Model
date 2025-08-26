@@ -1,0 +1,4 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df2,Brian Ortega,230,2,0.748,0.29,0.457,0,0,0,-2,0.0,UFC Fight Night: Walker vs. Zhang,2025-08-26
+df5,Kiefer Crosbie,340,1,0.334,0.218,0.116,0,0,0,-1,0.0,UFC Fight Night: Walker vs. Zhang,2025-08-26
+df9,Michel Pereira,-265,1,0.938,0.696,0.242,0,0,0,-1,0.0,UFC Fight Night: Walker vs. Zhang,2025-08-26
