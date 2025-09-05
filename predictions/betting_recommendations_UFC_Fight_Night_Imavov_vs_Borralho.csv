@@ -1,0 +1,4 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df7,Brendson Ribeiro,+370,1,0.387,0.204,0.183
+df11,Brad Tavares,-218,1,0.772,0.657,0.114
+df13,Sam Hughes,-340,1,0.868,0.741,0.127
