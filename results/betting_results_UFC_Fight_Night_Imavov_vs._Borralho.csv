@@ -1,0 +1,4 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df7,Brendson Ribeiro,370,1,0.387,0.204,0.183,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Imavov vs. Borralho,2025-09-08
+df11,Brad Tavares,-218,1,0.772,0.657,0.114,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Imavov vs. Borralho,2025-09-08
+df13,Sam Hughes,-340,1,0.868,0.741,0.127,1,0.294,1.294,0.294,1.294,UFC Fight Night: Imavov vs. Borralho,2025-09-08
