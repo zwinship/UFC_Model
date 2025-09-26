@@ -1,0 +1,5 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Carlos Ulberg,-250,1,0.797,0.685,0.112
+df7,Rodolfo Bellato,+200,1,0.476,0.319,0.156
+df9,Rolando Bedoya,+102,1,0.657,0.474,0.183
+df10,Colby Thicknesse,+130,2,0.769,0.417,0.352
