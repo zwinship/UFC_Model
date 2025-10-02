@@ -1,0 +1,5 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Alex Pereira,+230,1,0.505,0.29,0.215
+df8,Chris Gutierrez,+360,1,0.326,0.209,0.117
+df13,Austin Vanderford,-298,2,1.035,0.718,0.317
+df14,Brogan Walker,+500,3,0.871,0.16,0.711
