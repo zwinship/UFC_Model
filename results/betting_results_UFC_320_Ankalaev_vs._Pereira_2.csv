@@ -1,0 +1,5 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Alex Pereira,230,1,0.505,0.29,0.215,1,2.3,3.3,2.3,3.3,UFC 320: Ankalaev vs. Pereira 2,2025-10-08
+df8,Chris Gutierrez,360,1,0.326,0.209,0.117,0,0.0,0.0,-1.0,0.0,UFC 320: Ankalaev vs. Pereira 2,2025-10-08
+df13,Austin Vanderford,-298,2,1.035,0.718,0.317,0,0.0,0.0,-2.0,0.0,UFC 320: Ankalaev vs. Pereira 2,2025-10-08
+df14,Brogan Walker,500,3,0.871,0.16,0.711,0,0.0,0.0,-3.0,0.0,UFC 320: Ankalaev vs. Pereira 2,2025-10-08
