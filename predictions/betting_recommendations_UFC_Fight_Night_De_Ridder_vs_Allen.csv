@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df2,Mike Malott,-118,1,0.662,0.517,0.144
+df3,Marlon Vera,+105,2,0.838,0.468,0.371
+df6,Matt Frevola,-118,2,0.869,0.517,0.352
+df11,Ravena Oliveira,+240,3,0.825,0.282,0.543
+df12,Azamat Bekoev,-290,2,1.022,0.714,0.308
