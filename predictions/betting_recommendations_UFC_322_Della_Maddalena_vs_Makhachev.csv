@@ -1,0 +1,8 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Islam Makhachev,-269,1,0.876,0.714,0.161
+df3,Sean Brady,-136,1,0.699,0.559,0.14
+df4,Leon Edwards,+148,1,0.581,0.388,0.193
+df7,Gregory Rodrigues,-180,1,0.743,0.62,0.123
+df8,Tracy Cortez,+208,3,0.817,0.313,0.504
+df9,Kyle Daukaus,-417,1,1.004,0.795,0.209
+df11,Fatima Kline,-489,1,0.985,0.806,0.179
