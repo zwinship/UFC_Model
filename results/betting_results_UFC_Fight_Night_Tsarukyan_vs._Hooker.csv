@@ -1,0 +1,3 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df3,Alonzo Menifield,195,2,0.773,0.333,0.44,0,0,0,-2,0.0,UFC Fight Night: Tsarukyan vs. Hooker,2025-11-24
+df11,Bekzat Almakhan,102,1,0.631,0.478,0.153,0,0,0,-1,0.0,UFC Fight Night: Tsarukyan vs. Hooker,2025-11-24
