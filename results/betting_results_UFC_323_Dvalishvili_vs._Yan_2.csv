@@ -1,0 +1,8 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df3,Tatsuro Taira,-116,2,0.971,0.526,0.444,1,1.724,3.724,1.724,1.862,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
+df4,Henry Cejudo,208,1,0.54,0.311,0.228,0,0.0,0.0,-1.0,0.0,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
+df6,Grant Dawson,-220,1,0.918,0.67,0.248,0,0.0,0.0,-1.0,0.0,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
+df8,Maycee Barber,-192,1,0.84,0.634,0.207,1,0.521,1.521,0.521,1.521,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
+df9,Fares Ziam,-139,1,0.708,0.565,0.143,1,0.719,1.719,0.719,1.719,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
+df11,Edson Barboza,259,1,0.428,0.269,0.159,0,0.0,0.0,-1.0,0.0,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
+df13,Mansur Abdul-Malik,-1233,3,1.874,0.899,0.975,1,0.243,3.243,0.243,1.081,UFC 323: Dvalishvili vs. Yan 2,2025-12-07
