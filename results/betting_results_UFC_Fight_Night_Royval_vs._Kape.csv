@@ -1,0 +1,2 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df4,Melquizael Costa,-114,1,0.715,0.51,0.205,1,0.877,1.877,0.877,1.877,UFC Fight Night: Royval vs. Kape,2025-12-16
