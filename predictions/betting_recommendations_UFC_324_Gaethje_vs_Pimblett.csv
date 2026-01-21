@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df5,Arnold Allen,+213,1,0.308,0.182,0.126
+df5,Jean Silva,-254,1,0.524,0.409,0.116
+df6,Deiveson Figueiredo,+859,2,0.442,0.102,0.34
+df8,Nikita Krylov,+119,2,0.743,0.436,0.307
+df9,Alex Perez,+151,3,0.97,0.384,0.586
