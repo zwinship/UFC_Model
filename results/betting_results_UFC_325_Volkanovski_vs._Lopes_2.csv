@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df3,Mauricio Ruffy,-119,1,0.666,0.526,0.14,1,0.84,1.84,0.84,1.84,UFC 325: Volkanovski vs. Lopes 2,2026-02-01
+df5,Quillan Salkilld,-820,2,1.291,0.881,0.411,1,0.244,2.244,0.244,1.122,UFC 325: Volkanovski vs. Lopes 2,2026-02-01
+df6,Junior Tafa,203,1,0.433,0.321,0.112,0,0.0,0.0,-1.0,0.0,UFC 325: Volkanovski vs. Lopes 2,2026-02-01
+df7,Cody Brundage,304,1,0.493,0.242,0.251,0,0.0,0.0,-1.0,0.0,UFC 325: Volkanovski vs. Lopes 2,2026-02-01
+df8,Torrez Finney,125,2,0.737,0.428,0.31,0,0.0,0.0,-2.0,0.0,UFC 325: Volkanovski vs. Lopes 2,2026-02-01
