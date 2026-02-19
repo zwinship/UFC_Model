@@ -1,0 +1,4 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df3,Melquizael Costa,-225,1,0.843,0.656,0.187
+df7,Chidi Njokuani,+110,1,0.637,0.458,0.179
+df11,Ramiz Brahimaj,-111,1,0.663,0.508,0.155
