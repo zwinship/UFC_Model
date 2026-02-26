@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Brandon Moreno,-201,1,0.87,0.647,0.223
+df2,Marlon Vera,+251,2,0.656,0.275,0.381
+df4,Felipe Bunes,+262,1,0.46,0.264,0.196
+df8,Ailin Perez,-167,1,0.782,0.598,0.184
+df12,Francis Marshall,-779,2,1.275,0.851,0.425
