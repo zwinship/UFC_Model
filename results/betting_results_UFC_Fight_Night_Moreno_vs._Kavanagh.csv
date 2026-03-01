@@ -1,6 +1,0 @@
-matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
-df1,Brandon Moreno,-201,1,0.87,0.647,0.223,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Moreno vs. Kavanagh,2026-03-01
-df2,Marlon Vera,251,2,0.656,0.275,0.381,0,0.0,0.0,-2.0,0.0,UFC Fight Night: Moreno vs. Kavanagh,2026-03-01
-df4,Felipe Bunes,262,1,0.46,0.264,0.196,0,0.0,0.0,-1.0,0.0,UFC Fight Night: Moreno vs. Kavanagh,2026-03-01
-df8,Ailin Perez,-167,1,0.782,0.598,0.184,1,0.599,1.599,0.599,1.599,UFC Fight Night: Moreno vs. Kavanagh,2026-03-01
-df12,Francis Marshall,-779,2,1.275,0.851,0.425,1,0.257,2.257,0.257,1.128,UFC Fight Night: Moreno vs. Kavanagh,2026-03-01
