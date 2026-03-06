@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge
+df1,Charles Oliveira,+178,3,1.008,0.348,0.66
+df2,Reinier de Ridder,+199,2,0.665,0.328,0.337
+df3,Raul Rosas Jr.,-245,2,1.179,0.693,0.486
+df4,Drew Dober,+102,1,0.611,0.482,0.129
+df9,Cody Durden,+142,1,0.695,0.401,0.294
