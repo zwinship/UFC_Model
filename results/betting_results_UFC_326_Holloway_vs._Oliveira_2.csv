@@ -1,0 +1,6 @@
+matchup_id,name,Odds,bet_size,predicted_winner_scaled,implied_probability_scaled,betting_edge,won,potential_winnings,total_return,net,profit,event_name,date_added
+df1,Charles Oliveira,178,3,1.008,0.348,0.66,1,5.34,8.34,5.34,2.78,UFC 326: Holloway vs. Oliveira 2,2026-03-08
+df2,Reinier de Ridder,199,2,0.665,0.328,0.337,0,0.0,0.0,-2.0,0.0,UFC 326: Holloway vs. Oliveira 2,2026-03-08
+df3,Raul Rosas Jr.,-245,2,1.179,0.693,0.486,1,0.816,2.816,0.816,1.408,UFC 326: Holloway vs. Oliveira 2,2026-03-08
+df4,Drew Dober,102,1,0.611,0.482,0.129,1,1.02,2.02,1.02,2.02,UFC 326: Holloway vs. Oliveira 2,2026-03-08
+df9,Cody Durden,142,1,0.695,0.401,0.294,0,0.0,0.0,-1.0,0.0,UFC 326: Holloway vs. Oliveira 2,2026-03-08
