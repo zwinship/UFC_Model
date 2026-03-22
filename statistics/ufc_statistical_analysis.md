@@ -1,21 +1,21 @@
 # UFC Model — Statistical Analysis
 
-*Updated: 2026-03-15*
+*Updated: 2026-03-22*
 
 ## Overall Performance
 
 | Metric | Value |
 |--------|-------|
-| Total Bets | 182 |
-| Win Rate | 51.65% |
-| Net Units | +0.89u |
-| RTP | 100.31% |
+| Total Bets | 185 |
+| Win Rate | 50.81% |
+| Net Units | -5.11u |
+| RTP | 98.27% |
 
 ## Statistical Test
 
 | | |
 |---|---|
 | H0 (breakeven) | 0.96 |
-| t-statistic | 0.033 |
-| p-value (one-sided) | 0.4870 |
+| t-statistic | -0.158 |
+| p-value (one-sided) | 0.5627 |
 | Conclusion | Fail to reject H0 |
