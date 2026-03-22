@@ -1,47 +1,54 @@
 {
-  "analysis_date": "2026-03-15T22:47:34.811443",
+  "analysis_date": "2026-03-22T12:41:35.069698",
   "model": "V1",
   "t_test": {
     "null_hypothesis_value": 0.96,
-    "t_statistic": 0.03274550290203478,
-    "p_value_one_sided": 0.48695680933340313,
+    "t_statistic": -0.15816035254575914,
+    "p_value_one_sided": 0.5627480564241969,
     "conclusion": "Fail to reject H0"
   },
   "overall_performance": {
-    "total_bets": 182,
+    "total_bets": 185,
     "total_wins": 94,
-    "total_losses": 88,
-    "win_rate_pct": 51.65,
-    "units_staked": 289.0,
-    "net_units": 0.8932255299965348,
-    "rtp_pct": 100.31
+    "total_losses": 91,
+    "win_rate_pct": 50.81,
+    "units_staked": 295.0,
+    "net_units": -5.106774470003469,
+    "rtp_pct": 98.27
   },
   "basic_statistics": {
-    "count": 182,
-    "mean": 0.9627007593121059,
-    "median": 1.1165311653116532,
-    "std": 1.1126790512297078,
+    "count": 185,
+    "mean": 0.9470893956475852,
+    "median": 1.08110300081103,
+    "std": 1.1102858682520642,
     "min": 0.0,
     "max": 6.0,
     "range": 6.0,
-    "iqr": 1.5518018018018018
+    "iqr": 1.5405405405405406
   },
   "monthly_performance": [
     {
       "month": "2026-03",
-      "n_bets": 6,
+      "n_bets": 9,
       "wins": 2,
-      "net_units": -4.594949494949495,
-      "units_staked": 16.0,
-      "win_rate": 0.3333333333333333
+      "net_units": -10.594949494949496,
+      "units_staked": 22.0,
+      "win_rate": 0.2222222222222222
     }
   ],
-  "calibration": [],
+  "calibration": [
+    {
+      "prob_bucket": 0.4,
+      "n": 3,
+      "avg_predicted": 0.463,
+      "actual_win_rate": 0.0
+    }
+  ],
   "bet_size_distribution": {
     "units_by_bucket": {
-      "1": 108,
-      "2": 41,
-      "3": 33
+      "1": 109,
+      "2": 42,
+      "3": 34
     }
   }
 }
