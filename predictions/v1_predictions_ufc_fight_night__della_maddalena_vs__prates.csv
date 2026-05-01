@@ -1,0 +1,9 @@
+event,event_date,fighter,opponent,weight_class,style,opp_style,predicted_prob,Odds,implied_prob,betting_edge,bet_size,dk_link,dk_parlay_link
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Jack Della Maddalena,Carlos Prates,Welterweight,Striker,Mixed,0.5082,+108,0.4808,0.0274,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Carlos Prates,Jack Della Maddalena,Welterweight,Mixed,Striker,0.4918,N/A,,,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Beneil Dariush,Quillan Salkilld,Lightweight,Mixed,Mixed,0.4816,N/A,,,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Quillan Salkilld,Beneil Dariush,Lightweight,Mixed,Mixed,0.5184,-405,0.802,-0.2836,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Tim Elliott,Steve Erceg,Flyweight,Muay_Thai,Sniper,0.4372,+150,0.4,0.0372,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Steve Erceg,Tim Elliott,Flyweight,Sniper,Muay_Thai,0.5628,+154,0.3937,0.1691,2,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Jacob Malkoun,Gerald Meerschaert,Middleweight,Mixed,Mixed,0.5331,-970,0.9065,-0.3735,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
+UFC Fight Night: Della Maddalena vs. Prates,2026-05-02,Gerald Meerschaert,Jacob Malkoun,Middleweight,Mixed,Mixed,0.4669,N/A,,,0,,https://gambly.com/gambly-bot?auto=1&prompt=steve+erceg+moneyline
