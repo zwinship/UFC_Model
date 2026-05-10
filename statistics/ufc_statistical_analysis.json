@@ -1,30 +1,30 @@
 {
-  "analysis_date": "2026-05-03T13:00:02.152570",
+  "analysis_date": "2026-05-10T13:08:27.038292",
   "model": "V1",
   "t_test": {
     "null_hypothesis_value": 0.96,
-    "t_statistic": 0.6496337567295433,
-    "p_value_one_sided": 0.2583298128416642,
+    "t_statistic": 0.8133188391852442,
+    "p_value_one_sided": 0.2084804223332179,
     "conclusion": "Fail to reject H0"
   },
   "overall_performance": {
-    "total_bets": 205,
-    "total_wins": 106,
-    "total_losses": 99,
-    "win_rate_pct": 51.71,
-    "units_staked": 335.0,
-    "net_units": 27.482227459966204,
-    "rtp_pct": 108.2
+    "total_bets": 210,
+    "total_wins": 108,
+    "total_losses": 102,
+    "win_rate_pct": 51.43,
+    "units_staked": 347.0,
+    "net_units": 35.09222745996621,
+    "rtp_pct": 110.11
   },
   "basic_statistics": {
-    "count": 205,
-    "mean": 1.0138562932915753,
-    "median": 1.1219512195121952,
-    "std": 1.1869838389588714,
+    "count": 210,
+    "mean": 1.0283359053560617,
+    "median": 1.1165311653116532,
+    "std": 1.217580734756699,
     "min": 0.0,
     "max": 6.25,
     "range": 6.25,
-    "iqr": 1.6451612903225805
+    "iqr": 1.661290322580645
   },
   "monthly_performance": [
     {
@@ -45,38 +45,50 @@
     },
     {
       "month": "2026-05",
-      "n_bets": 1,
-      "wins": 1,
-      "net_units": 3.08,
-      "units_staked": 2.0,
-      "win_rate": 1.0
+      "n_bets": 6,
+      "wins": 3,
+      "net_units": 10.690000000000001,
+      "units_staked": 14.0,
+      "win_rate": 0.5
     }
   ],
   "calibration": [
     {
+      "prob_bucket": 0.3,
+      "n": 3,
+      "avg_predicted": 0.3746,
+      "actual_win_rate": 0.3333333333333333
+    },
+    {
       "prob_bucket": 0.4,
-      "n": 5,
-      "avg_predicted": 0.45858,
-      "actual_win_rate": 0.2
+      "n": 6,
+      "avg_predicted": 0.4579,
+      "actual_win_rate": 0.16666666666666666
     },
     {
       "prob_bucket": 0.5,
-      "n": 9,
-      "avg_predicted": 0.5430444444444444,
-      "actual_win_rate": 0.4444444444444444
+      "n": 10,
+      "avg_predicted": 0.5413500000000001,
+      "actual_win_rate": 0.5
     },
     {
       "prob_bucket": 0.7,
-      "n": 7,
-      "avg_predicted": 0.7298000000000001,
-      "actual_win_rate": 0.8571428571428571
+      "n": 8,
+      "avg_predicted": 0.7264999999999999,
+      "actual_win_rate": 0.75
+    },
+    {
+      "prob_bucket": 0.9,
+      "n": 3,
+      "avg_predicted": 0.9611999999999999,
+      "actual_win_rate": 0.3333333333333333
     }
   ],
   "bet_size_distribution": {
     "units_by_bucket": {
-      "1": 116,
-      "2": 48,
-      "3": 41
+      "1": 117,
+      "2": 49,
+      "3": 44
     }
   }
 }
