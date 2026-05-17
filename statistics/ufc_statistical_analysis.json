@@ -1,30 +1,30 @@
 {
-  "analysis_date": "2026-05-10T13:08:27.038292",
+  "analysis_date": "2026-05-17T13:09:51.172664",
   "model": "V1",
   "t_test": {
     "null_hypothesis_value": 0.96,
-    "t_statistic": 0.8133188391852442,
-    "p_value_one_sided": 0.2084804223332179,
+    "t_statistic": 0.8522661917598096,
+    "p_value_one_sided": 0.19751634228716744,
     "conclusion": "Fail to reject H0"
   },
   "overall_performance": {
-    "total_bets": 210,
-    "total_wins": 108,
-    "total_losses": 102,
-    "win_rate_pct": 51.43,
-    "units_staked": 347.0,
-    "net_units": 35.09222745996621,
-    "rtp_pct": 110.11
+    "total_bets": 212,
+    "total_wins": 109,
+    "total_losses": 103,
+    "win_rate_pct": 51.42,
+    "units_staked": 351.0,
+    "net_units": 33.792227459966206,
+    "rtp_pct": 109.63
   },
   "basic_statistics": {
-    "count": 210,
-    "mean": 1.0283359053560617,
+    "count": 212,
+    "mean": 1.0313704722866648,
     "median": 1.1165311653116532,
-    "std": 1.217580734756699,
+    "std": 1.219301870989157,
     "min": 0.0,
     "max": 6.25,
     "range": 6.25,
-    "iqr": 1.661290322580645
+    "iqr": 1.6798561151079134
   },
   "monthly_performance": [
     {
@@ -45,10 +45,10 @@
     },
     {
       "month": "2026-05",
-      "n_bets": 6,
-      "wins": 3,
-      "net_units": 10.690000000000001,
-      "units_staked": 14.0,
+      "n_bets": 8,
+      "wins": 4,
+      "net_units": 9.39,
+      "units_staked": 18.0,
       "win_rate": 0.5
     }
   ],
@@ -61,9 +61,9 @@
     },
     {
       "prob_bucket": 0.4,
-      "n": 6,
-      "avg_predicted": 0.4579,
-      "actual_win_rate": 0.16666666666666666
+      "n": 7,
+      "avg_predicted": 0.4587857142857143,
+      "actual_win_rate": 0.2857142857142857
     },
     {
       "prob_bucket": 0.5,
@@ -79,16 +79,16 @@
     },
     {
       "prob_bucket": 0.9,
-      "n": 3,
-      "avg_predicted": 0.9611999999999999,
-      "actual_win_rate": 0.3333333333333333
+      "n": 4,
+      "avg_predicted": 0.9683999999999999,
+      "actual_win_rate": 0.25
     }
   ],
   "bet_size_distribution": {
     "units_by_bucket": {
-      "1": 117,
+      "1": 118,
       "2": 49,
-      "3": 44
+      "3": 45
     }
   }
 }
