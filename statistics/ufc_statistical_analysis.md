@@ -1,6 +1,6 @@
 # UFC Model — Statistical Analysis
 
-*Updated: 2026-08-23*
+*Updated: 2026-08-30*
 
 ## Overall Performance
 
