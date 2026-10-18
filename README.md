@@ -1,6 +1,6 @@
 # UFC Betting Model
 
-## [Visit the UFC Betting Model Dashboard](https://ufcmodel.pythonanywhere.com/)
+## [Visit the OctaStats site](https://OctaStats.github.io)
 
 A comprehensive machine learning model for predicting UFC fight outcomes based on fighting styles and key statistics.
 
@@ -36,6 +36,28 @@ The final prediction model combines:
 
 to generate win probability predictions for upcoming UFC bouts.
 
+## How V1 runs today
+
+V1 is fully automated from the [OctaStats_UFC_Model_V2](https://github.com/zwinship/OctaStats_UFC_Model_V2) GitHub Actions workflows, which read and write this repository:
+
+| Step | Script (in OctaStats_UFC_Model_V2/scripts) | Writes here |
+|---|---|---|
+| Wednesday retrain | `v1_train_model.py` | `data/v1_model_bundle.pkl`, `data/career_styled_v1.csv` |
+| Friday predictions | `v1_predict.py` | `predictions/v1_predictions_{event}.csv`, `predictions/v1_predictions_latest.csv` |
+| Sunday results | `v1_scrape_results.py` | `results/v1_results_{event}.csv`, `results/all_betting_results.csv` |
+| Sunday statistics | `v1_statistics.py` | `statistics/ufc_statistical_analysis.json` / `.md` |
+
+`model_code/` holds the original Google Colab notebooks (exported to `.py`) that ran V1 manually before the automation. They are kept for reference and are not run by any workflow.
+
+Fixes in October 2026 (made in the V2 repository's scripts):
+- UFCStats now requires a real browser; the V1 predictor and results recorder were silently finding "no event" every week since May 2026. Both now load UFCStats in headless Chromium.
+- Training matchups were built by pairing adjacent rows, so only ~9% paired a fighter with their actual opponent. They are now paired by fight.
+- The control-time column name was wrong, so the Wrestler and BJJ styles could never be assigned. All six styles are assigned again.
+- Predictions use each fighter's career averages including their most recent fight.
+- Odds come from real sportsbooks (DraftKings preferred) matched by bout.
+- Cancelled bouts, draws and no contests are recorded as pushes (`result` = `VOID` / `D` / `NC`) instead of losses.
+- The results recorder only grades the predictions file for that exact event. It previously fell back to `v1_predictions_latest.csv`, which could belong to an older card.
+
 ## Performance Tracking
 
 The repository includes code that tracks model predictions against actual fight outcomes to evaluate:
@@ -45,9 +67,9 @@ The repository includes code that tracks model predictions against actual fight 
 
 ## Results Dashboard
 
-All model predictions, historical performance metrics, and betting returns can be found on our live dashboard:
+All model predictions, historical performance metrics, and betting returns can be found on the live site:
 
-[UFC Betting Model Results Dashboard](https://ufc-betting-model-ff625a707d8d.herokuapp.com/results)
+[OctaStats](https://OctaStats.github.io)
 
 The dashboard includes:
 - Current prediction accuracy statistics
